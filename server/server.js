@@ -1,5 +1,5 @@
 const express = require('express');
-
+const smth =require('./routes')
 const app = express();
 const PORT = process.env.PORT || 3000;
 
