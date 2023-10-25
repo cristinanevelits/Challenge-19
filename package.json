@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start:dev": "",
-    "start": "node server.js",
+    "start": "nodemon server/server.js --ignore client",
     "server": "",
     "build": "",
     "install": "",
