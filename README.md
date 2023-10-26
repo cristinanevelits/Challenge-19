@@ -17,13 +17,6 @@
 - Proper build scripts for Heroku deployment
 
 
-## Screenshots:
-
-![Screenshot#1]()
-![Screenshot#2]()
-![Screenshot#3]()
-
-
 ## GitHub Repo link: https://github.com/cristinanevelits/Challenge-19
 
 ## Credits
