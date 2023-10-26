@@ -19,6 +19,8 @@
 
 ## GitHub Repo link: https://github.com/cristinanevelits/Challenge-19
 
+## Heroku Deployed App Link: https://a-little-text-editor-b45fb4d7d813.herokuapp.com/
+
 ## Credits
 
 Created by Cristina Nevelits. Conducted searches in Google.com, https://www.w3schools.com/ and utilized ChatGPT, https://chat.openai.com/ and YouTube Channels - https://www.youtube.com to understand concepts.
